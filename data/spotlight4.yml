@@ -1,0 +1,10 @@
+####################### Spotlight #########################
+style: "style2 orient-right content-align-left image-position-center onscroll-image-fade-in color1 invert"
+id: "first"
+title : "Google My Business : l'allié de votre activité <b><span style='color:#FFA42D;'>LOCALE</span></b>"
+content: |
+  Un outil <b>gratuit</b> et facile à utiliser, Google My Business est bien plus qu'une simple fiche d'établissement en ligne. <br>Une fiche bien soignée peut augmenter votre visibilité sur Google, renforcer la confiance de vos clients potentiels et attirer plus de clients dans votre magasin. <br><br>Je peux vous aider à créer ou améliorer votre fiche Google My Business, et vous apprends comment la gérer facilement par vous-même.
+button: 
+  label: "Je veux une fiche soignée"
+  link: "#"
+image: "img/New-Google.jpg"

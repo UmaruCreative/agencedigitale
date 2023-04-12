@@ -1,0 +1,11 @@
+####################### Spotlight #########################
+style: "style4 orient-center content-align-left image-position-center onscroll-image-fade-in color1 invert"
+id: "first"
+title : "Sites web visant à la <b><span style='color:#FFA42D;'>CONVERSION</span></b>"
+content: |
+  Votre site web ne doit pas seulement être beau, il doit réellement vous aider à atteindre vos objectifs. <br>C'est pourquoi, en créant votre site web, je conçois une stratégie de conversion centrée sur votre activité qui <b><span style='color:#FFA42D;'>vous apportera des résultats concrets</span></b>, tels qu'augmenter les ventes en ligne, accroître le trafic en magasin et encourager la prise de rendez-vous.<br><br>
+  Si vous avez déjà un site, je peux également l'optimiser pour améliorer sa qualité, sans devoir le refaire entièrement.
+button: 
+  label: "Découvrez mes offres Site Web"
+  link: "#"
+image: "img/create-website-spotlight02.jpg"

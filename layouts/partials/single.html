@@ -1,0 +1,13 @@
+<section class="{{ .data.style }}">
+  <div class="content">
+    {{ with .data.title }}<h1>{{ . }}</h1>{{ end }}
+    {{ with .data.subtitle }}<h3>{{ . | safeHTML }}</h3>{{ end }}
+    {{ with .data.content }}<p>{{ . | safeHTML }}</p>{{ end }}
+  </div>
+  {{ with .data.image }}<div class="image">
+      <img src="{{.}}" alt="Hugo Story" />
+  </div>{{ end }}
+</section>
+
+  
+  

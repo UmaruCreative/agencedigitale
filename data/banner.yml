@@ -1,0 +1,12 @@
+####################### Banner #########################
+style: "style1 orient-left content-align-left image-position-center fullscreen onload-image-fade-in onload-content-fade-up"
+title : "💡ヾ(･ᴗ･ |"
+subtitle: |
+  Des idées créatives dans le digital
+content : |
+  <b>Umaru Créative</b> se concentre sur la création de sites web qui vont au-delà de l'esthétique, mais qui inspirent l'action et les conversions. Ensemble, trouvons la solution digitale la plus appropriée pour votre activité, que ce soit par un site web, les réseaux sociaux ou Google My Business.
+button:
+  label : "Discutons de votre projet"
+  link : "#first"
+image : "img/banner-bureau-with-logo.jpg"
+

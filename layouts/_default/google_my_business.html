@@ -1,0 +1,9 @@
+{{ define "main" }}
+    {{ partial "banner" site.Data.bannerGMB }} 
+    {{ partial "single" (dict "data" (index .Site.Data "singleGMB1")) }} 
+    {{ partial "spotlight" site.Data.spotlightGMB1 }} 
+    {{ partial "spotlight" site.Data.spotlightGMB2 }} 
+    {{ partial "items" site.Data.itemsGMB }}
+    {{ partial "single" (dict "data" (index .Site.Data "singleGMB")) }} 
+    {{ partial "template/footer" . }}
+{{ end }}

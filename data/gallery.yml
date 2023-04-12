@@ -1,0 +1,65 @@
+title: "Ma création - Boulangerie Umaru"
+style: "style2 medium lightbox onscroll-fade-in"
+content: |
+  Voici comment j'ai pensé aider une boulangerie à développer son activité en ligne : <br> un site web qui met en valeur ses produits frais et faits maison, avec un design moderne et épuré, et une expérience utilisateur agréable. Cette création offre un <b>menu simple</b> et une <b>boutique en ligne</b> pour illustrer comment une boulangerie peut bénéficier de ces deux options pour attirer plus de clients en ligne.
+pictures:
+  - title: "Homepage (1)"
+    content: "La photo d'une boulangerie vous accueille. Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    image: "img/gallery/fulls/Homepage-Boulangerie-Umaru-1.png"
+    thumb: "img/gallery/thumbs/Homepage-1_thumb.png"
+    button: "Zoomer"
+
+  - title: "Homepage (2)"
+    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    image: "img/gallery/fulls/Homepage_produit.png"
+    thumb: "img/gallery/thumbs/Homepage-produit_thumb.png"
+    button: "Zoom"
+
+  - title: "Boutique en ligne (VS)"
+    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    image: "img/gallery/fulls/Boutique-en-ligne-6.png"
+    thumb: "img/gallery/thumbs/Boutique-en-ligne-6_thumb.png"
+    button: "Zoom"
+
+  - title: "Boutique en ligne (2)"
+    content: "Les produits populaires. Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    image: "img/gallery/fulls/Boutique en ligne-produits-populaires.png"
+    thumb: "img/gallery/thumbs/Boutique en ligne-produits-populaires_thumb.png"
+    button: "Zoom"
+
+  - title: "Catégorie en boutique en ligne"
+    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    image: "img/gallery/fulls/Boutique-en-ligne_categorie-patisseries.png"
+    thumb: "img/gallery/thumbs/Boutique-en-ligne_categorie-patisseries_thumb.png"
+    button: "Zoom"
+
+  - title: "Cartégorie en carte"
+    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    image: "img/gallery/fulls/Carte-patisserie.png"
+    thumb: "img/gallery/thumbs/Carte-patisserie_thumb.png"
+    button: "Zoom"
+
+  - title: "Page Boutique"
+    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    image: "img/gallery/fulls/Notre-boutique.png"
+    thumb: "img/gallery/thumbs/Notre-boutique_thumb.png"
+    button: "Zoom"
+
+  - title: "Content Hero & Footer"
+    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    image: "img/gallery/fulls/Call-to-action_Footer.png"
+    thumb: "img/gallery/thumbs/Call-to-action_Footer_thumb.png"
+    button: "Zoom"
+
+  - title: "Title"
+    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    image: "images/gallery/fulls/11.jpg"
+    thumb: "images/gallery/thumbs/11.jpg"
+    button: "Details"
+
+  - title: "Title"
+    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    image: "images/gallery/fulls/12.jpg"
+    thumb: "images/gallery/thumbs/12.jpg"
+    button: "Details"
+    

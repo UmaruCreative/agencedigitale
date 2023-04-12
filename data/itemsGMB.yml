@@ -1,0 +1,18 @@
+title : "3 raisons d'avoir une bonne fiche Google My Business"
+style: "style3 medium onscroll-fade-in"
+items:
+  # feature item loop
+  - name : "Soyez visible sur Google"
+    content : "Votre fiche est la vitrine de votre entreprise sur Google, qui vous aide à renforcer votre présence en ligne. Plus elle est complète, plus il est facile de vous trouver et d'avoir une bonne impression."
+    style : "style2 major fa-paper-plane"
+
+  # feature item loop
+  - name : "Gagner la confiance"
+    content : "En répondant aux avis et aux questions de manière professionnelle et appropriée, cela réduit la confusion, augmente la confiance du client potentiel et montre que vous êtes à l'écoute et résolvez le problème activement."
+    style : "solid style2 major fa-sync-alt"
+    
+  # feature item loop
+  - name : "Source d'analyse précieuse"
+    content : "Sur l'interface Google My Business, découvrez les interactions des utilisateurs avec votre fiche d’entreprise, telles que les demandes d’accès à votre entreprise, les appels, et même les mots clés qu'ils saisissent pour vous trouver."
+    style : "solid style2 major fa-chart-bar"
+    

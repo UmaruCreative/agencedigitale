@@ -1,0 +1,12 @@
+####################### Banner #########################
+style: "style1 orient-left content-align-left image-position-center fullscreen onload-image-fade-in onload-content-fade-up"
+title : "Comment je travaille avec vous ?"
+subtitle: |
+  Umaru — Freelancer créative et digitale 
+content : |
+  J’aide les petites et moyennes entreprises à booster leur visibilité en ligne et attirer plus de clients grâce au site internet sur mesure. Je suis Web Designer & Social Media Manager en freelance à Lille, Paris et dans toute la France.
+button:
+  label : "Contactez-moi"
+  link : "#first"
+image : "img/banner-bureau-with-logo.jpg"
+

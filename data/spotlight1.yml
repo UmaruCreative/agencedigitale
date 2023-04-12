@@ -1,0 +1,11 @@
+####################### Spotlight #########################
+style: "style2 orient-right content-align-left image-position-center onscroll-image-fade-in"
+id: "first"
+title: "Créatrice d'expériences digitales avec <b><span style='color:#FFA42D;'>passion</span></b>"
+content: |
+  Bonjour ! Je suis Yatzu, la fondatrice d'Umaru Créative. J'aime utiliser ma créativité pour concevoir des sites web remarquables. Je suis convaincue que toutes les entreprises, qu'elles soient grandes ou petites, méritent une présence en ligne de qualité. <br><br>Mon objectif est d'aider les entreprises à exploiter pleinement leur potentiel dans le monde digital, tout en rendant Internet plus beau, utile et convivial pour tous. ٩(`･ω･´)و 
+button: 
+  label: "En savoir plus sur moi"
+  link: "#"
+image: "img/Creative thinking-pana-Orange.png"
+

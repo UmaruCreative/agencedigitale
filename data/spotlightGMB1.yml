@@ -1,0 +1,26 @@
+####################### Spotlight #########################
+style: "style1 orient-left content-align-left image-position-center onscroll-image-fade-in"
+id: "first"
+title : "Créer une fiche Google My Business"
+content: |
+  <p>Afin de créer une fiche pertinente qui reflète l'image de votre activité, j'ai développé un processus simple qui rend la collaboration avec moi claire, efficace et agréable : </p>
+  <ol>
+      <li>
+        <b>Découvrir</b> pour comprendre votre activité et évaluer si l'outil GMB est approprié pour vos objectifs et besoins.</li>
+      <li>
+      Créer votre compte Google My Business et faire valider votre établissement par Google.</li>
+      <li>
+      Analyser votre secteur d’activité et les fiches de vos concurrents pour que la vôtre sortira du lot. 
+      <li>
+        <b>Soignez votre fiche de A à Z</b> pour qu'elle soit attractive et bien classée par l'algorithme de Google. Cela implique une réflexion globale sur comment présenter votre entreprise en optimisant toutes les parties de la fiche GMB, telles que les informations, les visuels et les fonctions interactives, etc.
+      </li>
+      <li>
+      Mettre en place une stratégie pour obtenir plus d'avis pour votre fiche. Nous savons que le nombre et la note moyenne des avis comptent essentiellement pour que votre fiche soit mieux classée par Google.
+      </li>
+  </ol>
+  <p>Enfin, je vous donne les outils et les conseils nécessaires pour que vous serez capable de gérer votre fiche GMB !</p>
+
+button: 
+  label: "J'en ai besoin"
+  link: "#"
+image: "/img/Fiche-entreprise-GMB.jpg"

@@ -1,0 +1,16 @@
+title : "En quoi Umaru Créative peut vous apporter"
+content: |
+  Dans le site web, les réseaux sociaux et le Google My Business <b>ヾ(・ω・๑)</b> 
+style: "style1 big onscroll-fade-in"
+items:
+  # feature item loop
+  - name : "Projets sur mesure"
+    content : "Créons ensemble un <b>projet digital sur mesure</b> pour répondre à vos besoins spécifiques. De la conception à la réalisation, je suis à vos côtés pour vous aider à atteindre vos objectifs en ligne."
+    style : "style2 major fa-gem"
+   
+  # feature item loop
+  - name : "Conseils personnalisés"
+    content : "Je vous donne un <b>coup de pouce</b> pour améliorer votre visibilité sur les réseaux sociaux et Google My Business, grâce à des conseils personnalisés pour une <b>amélioration autonome</b>."
+    style : "solid style2 major fa-bolt"
+
+    

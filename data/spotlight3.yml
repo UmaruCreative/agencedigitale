@@ -1,0 +1,13 @@
+####################### Spotlight #########################
+style: "style2 orient-left content-align-left image-position-center onscroll-image-fade-in"
+id: "first"
+title : "Réseaux sociaux de <b><span style='color:#FFA42D;'>QUALITE</span></b>"
+content: |
+  Chez Umaru Créative, je ne me concentre pas uniquement sur le site web, je vous accompagne également à créer un impact sur les médias sociaux&nbsp;:
+  <ul><li><b>Gestion de communauté</b> : j'anime vos réseaux sociaux depuis la conception d’idées jusqu’à la production de contenus engageants, donc vous pouvez vous concentrer sur votre activité !<br><br>
+  </li><li><b>Conseils personnalisés</b> : si vous préférez gérer votre compte vous-même, mes conseils après une analyse complète peuvent être une source de créativité et d'énergie pour vous aider à améliorer votre compte en toute autonomie.<br><br>
+  </li><li><b>Création d'identité visuelle</b> : je crée également des visuels de qualité pour impressionner votre audience et refléter vos valeurs, adaptés à votre message.</li></ul>
+button: 
+  label: "Détails de mes 3 solutions"
+  link: "#"
+image: "img/Mobile-Marketing-pana.png"

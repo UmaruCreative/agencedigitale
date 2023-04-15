@@ -2,7 +2,7 @@
 ## Basic Configuration
 ## -----------------------------------------------
 
-baseURL = ""
+baseURL = "https://umarucreative.github.io/agencedigitale/"
 languageCode = "fr-fr"
 title = "Umaru Web"
 theme = "hugo-story"
